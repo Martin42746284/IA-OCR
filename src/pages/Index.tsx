@@ -88,7 +88,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="border-t border-border py-4 mt-8">
         <p className="text-center text-xs font-mono text-muted-foreground">
-          Projet IA — Classification supervisée k-NN │ Aucune régression utilisée
+          Projet IA — Classification supervisée k-NN
         </p>
       </footer>
     </div>
